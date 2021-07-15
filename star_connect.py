@@ -35,5 +35,3 @@ def star_connect():
 #   Applies changes from Bmesh instance to current edit mode mesh.
     bmesh.update_edit_mesh(obj.data)
     
-
-star_connect()
